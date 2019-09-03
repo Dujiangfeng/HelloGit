@@ -12,6 +12,4 @@ Hello,Git! I am 王作霖.
 
 Hello Git!I am 徐博润.（奥利给！）
 
-Hello Git!I am 杜江峰.(Not gay)
-
 Hello, Git! I am 聂安然(Annie0405).
